@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^16.11.7"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
